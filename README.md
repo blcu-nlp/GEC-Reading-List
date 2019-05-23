@@ -11,6 +11,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  [OTHER](#OTHER)
 
 <h2 id="shared_task"> Shared Task </h2>
+
 *  Dale Robert and Kilgarriff Adam. 2011. [Helping our own: The HOO 2011 pilot shared task](https://dl.acm.org/citation.cfm?id=2187725). In Proceedings of the 13th European Workshop on Natural Language Generation.
 
 *  Dale Robert, Anisimoff Ilya and Narroway George. 2012. [HOO 2012: A Report on the Preposition and Determiner Error Correction Shared Task](https://dl.acm.org/citation.cfm?id=2390390). In Proceedings of the Seventh Workshop on Building Educational Applications Using NLP.
