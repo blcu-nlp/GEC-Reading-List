@@ -9,7 +9,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  [SMT&NMT](#SMT)
 *  [NMT](#NMT)
 *  [OTHER](#OTHER)
-*  [BEA](#BEA)
+*  [BEA2019](#BEA)
 
 <h2 id="shared_task"> Shared Task </h2>
 
