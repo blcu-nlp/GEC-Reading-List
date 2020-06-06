@@ -119,4 +119,4 @@ Shared Task: Grammatical Error Correction](https://www.aclweb.org/anthology/W19-
 
 <h2 id="SED"> SED system</h2>
 
-*  Masahiro Kaneko, Kengo Hotate, Satoru Katsumata, and Mamoru Komachi. 2019. [Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction](https://www.aclweb.org/anthology/W16-0528.pdf). In Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications, pages 242–251, San Diego, California, June 16, 2016.
+*  Allen Schmaltz, Yoon Kim, Alexander M. Rush, and Stuart Shieber. 2016. [Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction](https://www.aclweb.org/anthology/W16-0528.pdf). In Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications, pages 242–251, San Diego, California, June 16, 2016.
