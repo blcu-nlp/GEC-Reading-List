@@ -11,6 +11,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  [Language Model](#Pretrain)
 *  [OTHER](#OTHER)
 *  [BEA2019](#BEA)
+*  [SED](#SED)
 
 <h2 id="shared_task"> Shared Task </h2>
 
@@ -95,6 +96,8 @@ A grammatical error correction reading list maintained by Beijing Language and C
 
 <h2 id="BEA"> BEA2019 Competition</h2>
 
+*  Yoav Kantor, Yoav Katz, Leshem Choshen, Edo Cohen-Karlik, Naftali Liberman, Assaf Toledo, Amir Menczel, and Noam Slonim. 2019. [Learning to combine Grammatical Error Corrections](https://arxiv.org/pdf/1906.03897.pdf).  In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics. （combining, bea-sota）
+
 *  Roman Grundkiewicz, Marcin Junczys-Dowmunt, and Kenneth Heafield. 2019. [Neural Grammatical Error Correction Systems with Unsupervised Pre-training on Synthetic Data](https://www.aclweb.org/anthology/W19-4427). In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics.（No. 1）
 
 *  Yo Joong Choe, Jiyeon Ham, Kyubyong Park, and Yeoil Yoon. 2019. [A Neural Grammatical Error Correction System Built On Better Pre-training and Sequential Transfer Learning](https://arxiv.org/pdf/1907.01256.pdf).  In Proceedings of the
@@ -112,6 +115,8 @@ Shared Task: Grammatical Error Correction](https://www.aclweb.org/anthology/W19-
 
 *  Liner Yang and Chencheng Wang. 2019. [The BLCU System in the BEA 2019 Shared Task](https://www.aclweb.org/anthology/W19-4421). In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics.（No. 12）
 
-*  Yoav Kantor, Yoav Katz, Leshem Choshen, Edo Cohen-Karlik, Naftali Liberman, Assaf Toledo, Amir Menczel, and Noam Slonim. 2019. [Learning to combine Grammatical Error Corrections](https://arxiv.org/pdf/1906.03897.pdf).  In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics. （No. 13）
-
 *  Masahiro Kaneko, Kengo Hotate, Satoru Katsumata, and Mamoru Komachi. 2019. [TMU Transformer System Using BERT for Re-ranking at BEA 2019 Grammatical Error Correction on Restricted Track](https://www.aclweb.org/anthology/W19-4422). In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics.（No. 14）
+
+<h2 id="SED"> SED system</h2>
+
+*  Masahiro Kaneko, Kengo Hotate, Satoru Katsumata, and Mamoru Komachi. 2019. [Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction](https://www.aclweb.org/anthology/W16-0528.pdf). In Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications, pages 242–251, San Diego, California, June 16, 2016.
