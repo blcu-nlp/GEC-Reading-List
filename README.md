@@ -81,7 +81,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 
 *  Pascal Vincent, Hugo Larochelle, Yoshua Bengio, and Pierre-Antoine Manzagol. 2008. [Corpora Generation for Grammatical Error Correction](http://delivery.acm.org/10.1145/1400000/1390294/p1096-vincent.pdf?ip=123.127.77.18&id=1390294&acc=ACTIVE%20SERVICE&key=BF85BBA5741FDC6E%2E3079BB709085A683%2E4D4702B0C3E38B35%2E4D4702B0C3E38B35&__acm__=1568555058_da2bb710b2c14749225dc84cdd8b2136). In Proceedings of the 25th international conference on Machine learning, pages 1096–1103. ACM.(DAE)
 
-* Jianshu Ji, Qinlong Wang, Kristina Toutanova, YongenGong, Steven Truong, and Jianfeng Gao. 2017.  [A nested attention neural hybrid model for grammatical error correction.](https://www.aclweb.org/anthology/P17-1070.pdf). In Proceedings of the 55th Annual Meeting of the Association for ComputationalLinguistics. Association for Computational Linguis-tics, pages 753–762.(LM in rerank)
+* Jianshu Ji, Qinlong Wang, Kristina Toutanova, YongenGong, Steven Truong, and Jianfeng Gao. 2017.  [A nested attention neural hybrid model for grammatical error correction.](https://www.aclweb.org/anthology/P17-1070.pdf). In Proceedings of the 55th Annual Meeting of the Association for ComputationalLinguistics. Association for Computational Linguistics, pages 753–762.(LM in rerank)
 
 
 <h2 id="OTHER"> OTHER </h2>
