@@ -103,6 +103,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 An efficient procedure for finding top n sentence hypotheses](https://www.aclweb.org/anthology/H89-2027.pdf). in Proceedings of the workshop on Speech and Natural Language. Association for Computational Linguistics, 1989, pp.
 199–202.
 
+*  V. H. QuanMarcello, Marcello Federico, Mauro Cettolo. 2005. [Integrated n-best re-ranking for spoken language translation](https://www.researchgate.net/publication/221483809_Integrated_n-best_re-ranking_for_spoken_language_translation). in Proceedings of the 9th European Conference on Speech Communication and Technology, Lisbon, Portugal, September 4-8, 2005
 
 <h2 id="BEA"> BEA2019 Competition</h2>
 
