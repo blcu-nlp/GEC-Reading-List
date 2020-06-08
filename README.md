@@ -10,6 +10,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  [NMT](#NMT)
 *  [Language Model](#Pretrain)
 *  [OTHER](#OTHER)
+*  [Algorithm](#Algorithm)
 *  [BEA2019](#BEA)
 *  [SED](#SED)
 
@@ -95,6 +96,13 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  Rico Sennrich, Barry Haddow, and Alexandra Birch. 2016. [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Association for Computational Linguistics, Berlin, Germany, pages 1715–1725.(BPE)
 
 *  Franz Josef Och. 2003. [Minimum Error Rate Training in Statistical Machine Translation](https://www.aclweb.org/anthology/P03-1021.pdf). In Proceedings of the Annual Meeting of the Association for Computational Linguistics. (MERT)
+
+<h2 id="Algorithm"> Algorithms Competition</h2>
+
+*  Yen-Lu Chow and Richard Schwartz. 1989. [The n-best algorithm:
+An efficient procedure for finding top n sentence hypotheses](https://www.aclweb.org/anthology/H89-2027.pdf). in Proceedings of the workshop on Speech and Natural Language. Association for Computational Linguistics, 1989, pp.
+199–202.
+
 
 <h2 id="BEA"> BEA2019 Competition</h2>
 
