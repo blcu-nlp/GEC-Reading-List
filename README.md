@@ -97,7 +97,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 
 *  Franz Josef Och. 2003. [Minimum Error Rate Training in Statistical Machine Translation](https://www.aclweb.org/anthology/P03-1021.pdf). In Proceedings of the Annual Meeting of the Association for Computational Linguistics. (MERT)
 
-<h2 id="Algorithm"> Algorithms Competition</h2>
+<h2 id="Algorithm"> Algorithms</h2>
 
 *  Yen-Lu Chow and Richard Schwartz. 1989. [The n-best algorithm:
 An efficient procedure for finding top n sentence hypotheses](https://www.aclweb.org/anthology/H89-2027.pdf). in Proceedings of the workshop on Speech and Natural Language. Association for Computational Linguistics, 1989, pp.
