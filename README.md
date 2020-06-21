@@ -48,6 +48,8 @@ A grammatical error correction reading list maintained by Beijing Language and C
 
 *  Bryant Christopher, Felice Mariano, Briscoe Edward John. 2017. [Automatic annotation and evaluation of error types for grammatical error correction](https://www.aclweb.org/anthology/P17-1074). In Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).(ERRANT)
 
+*  Snover, Matthew, Bonnie J. Dorr, Richard M. Schwartz, Linnea Micciulla and Ralph M. Weischedel. 2005. [A STUDY OF TRANSLATION ERROR RATE WITH TARGETED HUMAN ANNOTATION.](https://pdfs.semanticscholar.org/a589/9f1ec92af7d01f35225161430116a6eabbea.pdf). In Proceedings of Computer Science. (TER)
+
 <h2 id="SMT"> SMT&NMT </h2>
 
 *  Grundkiewicz Roman, Junczys-Dowmunt MarcinNear. 2018. [Human-Level Performance in Grammatical Error Correction with Hybrid Machine Translation](https://www.aclweb.org/anthology/N18-2046). In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 2 (Short Papers).
