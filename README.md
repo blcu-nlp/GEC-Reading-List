@@ -12,6 +12,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  [OTHER](#OTHER)
 *  [Algorithm](#Algorithm)
 *  [BEA2019](#BEA)
+*  [Non Autoregressive](#NA)
 *  [SED](#SED)
 
 <h2 id="shared_task"> Shared Task </h2>
@@ -86,6 +87,8 @@ A grammatical error correction reading list maintained by Beijing Language and C
 
 * Jianshu Ji, Qinlong Wang, Kristina Toutanova, YongenGong, Steven Truong, and Jianfeng Gao. 2017.  [A nested attention neural hybrid model for grammatical error correction.](https://www.aclweb.org/anthology/P17-1070.pdf). In Proceedings of the 55th Annual Meeting of the Association for ComputationalLinguistics. Association for Computational Linguistics, pages 753–762.(LM in rerank)
 
+*  Masahiro Kaneko, Masato Mita, Shun Kiyono, Jun Suzuki, Kentaro Inui. 2020. [Encoder-Decoder Models Can Benefit from Pre-trained Masked Language Models in Grammatical Error Correction](https://arxiv.org/pdf/2005.00987.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 4248–4254 July 5 - 10, 2020. c 2020 Association for Computational Linguistics.(BERT)
+
 
 <h2 id="OTHER"> OTHER </h2>
 
@@ -98,6 +101,13 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  Rico Sennrich, Barry Haddow, and Alexandra Birch. 2016. [Neural Machine Translation of Rare Words with Subword Units](https://arxiv.org/pdf/1508.07909.pdf). In Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers). Association for Computational Linguistics, Berlin, Germany, pages 1715–1725.(BPE)
 
 *  Franz Josef Och. 2003. [Minimum Error Rate Training in Statistical Machine Translation](https://www.aclweb.org/anthology/P03-1021.pdf). In Proceedings of the Annual Meeting of the Association for Computational Linguistics. (MERT)
+
+<h2 id="NA"> Non Autoregressive</h2>
+
+*  Kostiantyn Omelianchuk, Vitaliy Atrasevych, Artem Chernodub, Oleksandr Skurzhanskyi. 2020. [GECToR – Grammatical Error Correction: Tag, Not Rewrite](https://arxiv.org/pdf/2005.12592.pdf). in Proceedings of the 15th Workshop on Innovative Use of NLP for Building Educational Applications, pages 163–170
+. Association for Computational Linguistics.
+
+*  Abhijeet Awasthi, Sunita Sarawagi , Rasna Goyal , Sabyasachi Ghosh , Vihari Piratla. 2019. [Parallel Iterative Edit Models for Local Sequence Transduction](https://www.aclweb.org/anthology/D19-1435.pdf). In Proceedings of the 2019 Conference on Empirical Methods in Natural Language Processing and the 9th International Joint Conference on Natural Language Processing, pages 4260–4270, Hong Kong, China. Association for Computational Linguistics.
 
 <h2 id="Algorithm"> Algorithms</h2>
 
