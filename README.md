@@ -13,7 +13,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 *  [Algorithm](#Algorithm)
 *  [BEA2019](#BEA)
 *  [Non Autoregressive](#NA)
-*  [SED](#SED)
+*  [GED](#GED)
 
 <h2 id="shared_task"> Shared Task </h2>
 
@@ -141,7 +141,7 @@ Shared Task: Grammatical Error Correction](https://www.aclweb.org/anthology/W19-
 
 *  Masahiro Kaneko, Kengo Hotate, Satoru Katsumata, and Mamoru Komachi. 2019. [TMU Transformer System Using BERT for Re-ranking at BEA 2019 Grammatical Error Correction on Restricted Track](https://www.aclweb.org/anthology/W19-4422). In Proceedings of the 14th Workshop on Innovative Use of NLP for Building Educational Applications. Association for Computational Linguistics.（No. 14）
 
-<h2 id="SED"> SED system</h2>
+<h2 id="GED"> GED system</h2>
 
 *  Allen Schmaltz, Yoon Kim, Alexander M. Rush, and Stuart Shieber. 2016. [Sentence-Level Grammatical Error Identification as Sequence-to-Sequence Correction](https://www.aclweb.org/anthology/W16-0528.pdf). In Proceedings of the 11th Workshop on Innovative Use of NLP for Building Educational Applications, pages 242–251, San Diego, California, June 16, 2016.
 
