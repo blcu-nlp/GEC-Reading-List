@@ -93,7 +93,7 @@ A grammatical error correction reading list maintained by Beijing Language and C
 
 *  Hongfei Wang, Michiki Kurosawa, Satoru Katsumata and Mamoru Komachi. 2020. [Chinese Grammatical Correction Using BERT-based Pre-trained Model](https://arxiv.org/pdf/2011.02093.pdf). In Proceedings of AACL-IJCNLP 2020.(BERT-Chinese)
 
-*  Fan Yin1, Quanyu Long2, Tao Meng3, and Kai-Wei Chang. 2020. [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/pdf/2005.05683.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 3386–3403 July 5 - 10, 2020. c 2020 Association for Computational Linguistics(BERT Analysis)
+*  Fan Yin, Quanyu Long, Tao Meng, and Kai-Wei Chang. 2020. [On the Robustness of Language Encoders against Grammatical Errors](https://arxiv.org/pdf/2005.05683.pdf). In Proceedings of the 58th Annual Meeting of the Association for Computational Linguistics, pages 3386–3403 July 5 - 10, 2020. c 2020 Association for Computational Linguistics(BERT Analysis)
 
 *  Satoru Katsumata, Mamoru Komachi. 2020. [Stronger Baselines for Grammatical Error Correction Using a Pretrained Encoder–Decoder Model](https://arxiv.org/pdf/2005.11849.pdf). In Proceedings of AACL-IJCNLP 2020 (BART,mBART)
 
