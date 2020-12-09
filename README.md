@@ -43,6 +43,12 @@ A grammatical error correction reading list maintained by Beijing Language and C
 
 *  Sylviane Granger. 1998. [The computer learner corpus: A versatile new source of data for SLA research](https://www.researchgate.net/profile/Sylviane_Granger/publication/237128463_The_computer_learner_corpus_A_versatile_new_source_of_data_for_SLA_research/links/0c96051dc1c596def1000000/The-computer-learner-corpus-A-versatile-new-source-of-data-for-SLA-research.pdf). Learner English on Computer. (LOCNESS)
 
+*  Napoles C, Nădejde M, Tetreault J. 2019. [Enabling robust grammatical error correction in new domains: Data sets, metrics, and analyses](https://transacl.org/ojs/index.php/tacl/article/view/1677). Transactions of the Association for Computational Linguistics, 2019, 7: 551-566.
+
+*  Rozovskaya A, Roth D. 2019. [Grammar error correction in morphologically rich languages: The case of Russian](https://transacl.org/index.php/tacl/article/view/1454). Transactions of the Association for Computational Linguistics, 2019, 7: 1-17.
+
+*  Flachs S, Lacroix O, Yannakoudakis H, et al. 2020. [Grammatical Error Correction in Low Error Density Domains: A New Benchmark and Analyses](https://arxiv.org/abs/2010.07574). EMNLP 2020.
+
 <h2 id="evaluation"> Evaluation </h2>
 
 *  Dahlmeier Daniel and Ng Hwee Tou. 2012. [Better evaluation for grammatical error correction](https://dl.acm.org/citation.cfm?id=2382118). In Proceedings of the 2012 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies. (Maxmatch,M2)
