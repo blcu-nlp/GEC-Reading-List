@@ -69,6 +69,20 @@ A grammatical error correction reading list maintained by Beijing Language and C
 
 <h2 id="NMT"> NMT </h2>
 
+*  Gotou T, Nagata R, Mita M, et al.  2020 [Taking the Correction Difficulty into Account in Grammatical Error Correction Evaluation](https://www.aclweb.org/anthology/2020.coling-main.188/). Proceedings of the 28th International Conference on Computational Linguistics.
+
+*  Hotate K, Kaneko M, Komachi M. 2020. [Generating Diverse Corrections with Local Beam Search for Grammatical Error Correction](https://www.aclweb.org/anthology/2020.coling-main.193/). Proceedings of the 28th International Conference on Computational Linguistics.
+
+*  Yoshimura R, Kaneko M, Kajiwara T, et al. 2020.[SOME: Reference-less Sub-Metrics Optimized for Manual Evaluations of Grammatical Error Correction](https://www.aclweb.org/anthology/2020.coling-main.573/). Proceedings of the 28th International Conference on Computational Linguistics.
+
+*  Yamashita I, Katsumata S, Kaneko M, et al.2020. [Cross-lingual Transfer Learning for Grammatical Error Correction](https://www.aclweb.org/anthology/2020.coling-main.415/). Proceedings of the 28th International Conference on Computational Linguistics.
+
+*  Wan Z, Wan X, Wang W. 2020. [Improving Grammatical Error Correction with Data Augmentation by Editing Latent Representation](https://www.aclweb.org/anthology/2020.coling-main.200/). Proceedings of the 28th International Conference on Computational Linguistics.
+
+*  Hinson C, Huang H H, Chen H H. 2020. [Heterogeneous Recycle Generation for Chinese Grammatical Error Correction](https://www.aclweb.org/anthology/2020.coling-main.199/). Proceedings of the 28th International Conference on Computational Linguistics.
+
+*  Caines A, Bentz C, Knill K, et al. 2020. [Grammatical error detection in transcriptions of spoken English](https://www.aclweb.org/anthology/2020.coling-main.195/). Proceedings of the 28th International Conference on Computational Linguistics.
+
 *  Zhao Wei, Wang Liang, Shen Kewei, Jia Ruoyu, Liu Jingming. 2019. [Improving Grammatical Error Correction via Pre-Training a Copy-Augmented Architecture with Unlabeled Data](https://arxiv.org/pdf/1903.00138.pdf).
 
 *  Junczys-Dowmunt Marcin, Grundkiewicz Roman, Guha Shubha, Heafield Kenneth. 2018. [Approaching Neural Grammatical Error Correction as a Low-Resource Machine Translation Task](https://www.aclweb.org/anthology/N18-1055). In Proceedings of the 2018 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies, Volume 1 (Long Papers).
